@@ -7,6 +7,7 @@ yarn add axios
 yarn add react-modal
 yarn add @types/react-modal -D
 yarn add polished
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
