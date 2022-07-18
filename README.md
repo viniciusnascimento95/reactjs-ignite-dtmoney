@@ -1,8 +1,15 @@
+## Screenshots
+
+![App Screenshot](https://github.com/viniciusnascimento95/reactjs-ignite-dtmoney/blob/main/dashboard.png)
+
 ## libs install
+
 yarn add styled-components
 yarn add @types/styled-components -D
-###fake backend
-yarn add miragejs 
+
+### fake backend
+
+yarn add miragejs
 yarn add axios
 yarn add react-modal
 yarn add @types/react-modal -D
