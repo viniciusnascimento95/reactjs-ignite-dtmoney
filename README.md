@@ -1,6 +1,6 @@
 ## Screenshots
 
-![App Screenshot](https://github.com/viniciusnascimento95/reactjs-ignite-dtmoney/blob/main/dashboard.png)
+![App Screenshot](https://github.com/viniciusnascimento95/reactjs-ignite-dtmoney/blob/master/dashboard.png)
 
 ## libs install
 
